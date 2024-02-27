@@ -1,0 +1,28 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    margin:20px;
+    margin   
+}
+body{
+    background-color: rgba(255, 234, 173, 0.808);
+}
+h1
+{
+    border: 10px;
+    background-color: khaki;
+    padding: 15px;
+    border-style: dashed;
+    border-color: rgb(219, 157, 99)  ;
+    color: rgb(247, 130, 130);
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+p
+{
+    color: rgb(66, 66, 48); text-align: justify;border-radius: 25px;border-style: solid; padding: 10px ; border-color: rgb(194, 218, 64);
+    background-color: rgb(250, 248, 227);
+}
+img{
+    width: 42%;left: 50%;
+}
